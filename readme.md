@@ -12,8 +12,10 @@ I am the instructor of this Internship. I am now adding to my profile.
 
 (Mr-Miaral - Mark )
 (Hello everyone ! I'm Mark, Nice to meet you all ! :D)
+
 ## Apol 
 
+<<<<<<< HEAD
 (Insert your profile - Nezuko Meredith)
 # Top 10 alternatives to sugar 
 Stevia: Derived from the leaves of the stevia plant, steviol glycosides are natural sweeteners with zero calories. They are much sweeter than sugar, so only a small amount is needed.
@@ -28,3 +30,6 @@ Stevia: Derived from the leaves of the stevia plant, steviol glycosides are natu
 8 Honey
 9 Molasses
 10 Stevia
+=======
+(Insert your profile - Apol)
+>>>>>>> d087e0c26c2ef06ab68bfe3238038a41ef0d2269
