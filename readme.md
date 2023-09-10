@@ -6,7 +6,7 @@ This is a sample markdown file.
 
 ## Doc Ligot
 
-I am the instructor of this Internship
+I am the instructor of this Internship. I am now adding to my profile. 
 
 ## Mark
 
