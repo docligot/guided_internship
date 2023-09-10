@@ -43,6 +43,30 @@ Crafting: Crafters may use screwdrivers to secure screws when creating custom pr
 
 ## Top 10 countries by crime rate
 
+1. Venezuela: Venezuela has consistently ranked among countries with high crime rates, particularly for violent crimes like homicide.
+
+2. El Salvador: El Salvador has one of the highest homicide rates in the world, primarily due to gang-related violence.
+
+3. Honduras: Honduras has experienced high crime rates, including homicides and robberies, often related to gang activity.
+
+4. South Africa: South Africa has high rates of violent crime, including murder, rape, and armed robbery.
+
+5. Lesotho: Lesotho has one of the highest homicide rates globally, attributed to factors like poverty and organized crime.
+
+6. Jamaica: Jamaica has a relatively high rate of violent crimes, including homicides and shootings.
+
+7. Swaziland (Eswatini): Swaziland has a significant crime rate, primarily involving property crimes like theft and burglary.
+
+8. Guatemala: Guatemala faces issues related to gang violence, drug trafficking, and property crimes.
+
+9. Trinidad and Tobago: Trinidad and Tobago have experienced high rates of violent crime, particularly in certain urban areas.
+
+10. Brazil: Brazil has a high rate of violent crime, with concerns about homicides and street crime in major cities.
+
+
+
+
+
 ## Top 10 alternatives to sugar
 
 (Insert your profile - Apol)
