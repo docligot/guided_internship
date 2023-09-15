@@ -1,0 +1,81 @@
+## Objectives
+1. To be able to describe the present condition of tech companies in terms of their 
+mental health resources such as benefits, care options, wellness programs and leaves. 
+
+2. To be able to determine if tech companies taking consider the mental health of the employees 
+percentage of employees aware of available mental health support.
+
+3. To be able to assess the  changes or patterns in mental health status among employees working in the tech industry 
+
+4. To be able to formulate the possible programs to maintain the healthy working condition under tech companies 
+determine the cost estimates for implementing mental health programs that could improve their mental health status at workplace 
+
+## Status of the Data 
+-The survey was created year 2014, that tackles about employees from tech companies around the countries
+
+-It has 1,260 rows and 27 columns 
+ 
+-Minor cleaning must be done such as the gender, no. of employees and leaves to have uniform format 
+
+- The following information stated at the dataset are anonimity to maintain the data privacy of individuals who responeded
+to the survey, the dataset used came from an open source, the link will be printed at the reference of the paper. 
+The following data will be used for research practice only, no data shall not discriminates the countries included in the dataset. 
+
+- Regression analysis will be applied to predict the current mental health status of employees in the tech industry
+
+## RRL 
+According to World Health Organization(2019), mental illness at workplace is very important part of organization for economic side like it will affect 
+the productivity of the employees that is link to their profit in an organization. It is also stated by (Hennekam et al., Citation2020; Lerner & Henke, 
+Citation2008; McGurk et al., Citation2003)that employees who may experience mental illness will decrease the productivity and cognitive which is 
+vital part at the workplace and can give impact at environment workplace.  Most adults who are active in workforce are the ones that has the tendencies to 
+experience mental illness as what (Shann et al., Citation2014) mentioned. But most managers according to (Martin et al., Citation2015) their decision making 
+and supports are not enough to for employees who has the tendencies to have mental illness. On the article "Its a New Era for Mental Health at Work" by Greenwood and 
+Anas, on the 6th paragraph stated that more employees left their job because of mental health reasons such as overwhelming and unsustaianable tasks. As the statistics 
+shows that in Millenial generations, 68% of the total population left the job voluntarily due to menatl health reasons while Gen Z's has 81% total population left 
+voluntarily with the same reason which is mental health. If the issue with regards to mental heqalth at workplace was not solved, there could be a problem in 
+terms of manpower that will affect their income generation. But in the same article, it was mentioned that some companies decided to invest on mental health supports 
+at the workplace like trainings on how to adopt changes at culture during pandemic days and providing extra paid time off and mental health days.  It was stated 
+54% of the respondents believed that mental health was prioritized at their company, "47% of respondents believed that their company leaders were 
+advocates for mental health at work", "47% believed that their manager was equipped to support them if they had a mental health condition or symptom" Increase
+were observable comparing to year 2019 41% mental health was prioritized , 37% ompany leaders were advocates for mental health at work and 39% manager was equipped
+ to support them if they had a mental health condition or symptom. The term technology sector according to investopedia "relating to the research, development, or 
+distribution of technologically based goods and services. This sector contains businesses revolving around the manufacturing of electronics, creation of software,
+computers, or products and services relating to information technology". The study about use of technology by (Brumberg,2018) reflects that working with technology is
+quite hard as employees becomes frustrated and then actually burden them as what (Ayyagari et al., 2011) said. In temrs of productivity level (Tams et al., 2020)
+and (Grandhi et al., 2005) agreed that the use of technology might not help to optimize the productivity level of the employees and end up overlaod on human cognition.
+It came to the point that other employees feels "technology overload" where in they feel fatigue physical and mentally due to the extensive use of technology based to
+(K. J. Harris et al., 2013). The American psychologist Craig Broad stated that computer technology can be a cause of stress among its users. He introduced the 
+term ‘technostress’ to label psychological responses to negative experiences with computers. Tarafdar et al emphasize the definition of "technostress"
+technology environmental conditions, demands individual and require a change, psychological, physical, and behavioural outcomes for the individual’ resulting chronic 
+stress risk factor for several diseases including mental diseases."In today's work landscape, the ubiquity of technology is undeniable. While a few drawbacks exist,
+it's an unstoppable force, so why not embrace it and focus on its numerous advantages?The cornerstone of a successful and productive workplace is a motivated 
+workforce consistently delivering high-quality output. To keep both employers and employees content, seeking efficient and cost-effective solutions is imperative.
+One pivotal task in fostering a seamless work environment is harnessing technology expressly designed to empower collaborative workplaces. Technology remains 
+in a constant state of flux and will continue to seamlessly integrate into the workforce, consistently elevating productivity and overall workforce performance.
+This insight is sourced from Kitaboo.com, a leading digital textbook platform, authored by Snehnath Neendoor. As what Using Technology to Make Work More Human
+by Allison Fine and Beth Kanter publishes that, While automation can undoubtedly handle certain aspects
+of jobs, there are very few, if any, that should be entirely taken over by smart technology. However, what automation can profoundly transform is the overall work 
+experience.Instead of merely speeding up tasks and reducing the need for human labor, smart technology offers a unique opportunity to reimagine job roles and 
+streamline workflows. This, in turn, empowers individuals to concentrate on the facets of work where human capabilities truly shine. These include building 
+relationships, making intuitive decisions, displaying empathy, and solving complex problems.
+
+## Author Expectations
+- The output of this research will help tech companies to create programs to develop the workplace 
+
+
+
+
+
+
+
+
+###
+Reference 
+https://www.tandfonline.com/doi/full/10.1080/09585192.2021.1960751
+https://hbr.org/2021/10/its-a-new-era-for-mental-health-at-work
+https://www.investopedia.com/terms/t/technology_sector.asp
+https://journals.sagepub.com/doi/full/10.1177/21582440221114320
+https://hbr.org/2022/03/using-technology-to-make-work-more-human
+https://kitaboo.com/technology-in-the-workplace/
+https://journals.lww.com/co-psychiatry/Fulltext/2020/07000/Technostress_at_work_and_mental_health__concepts.16.aspx
+
